@@ -1,0 +1,35 @@
+<!--This is a non-showing internal note. Hello from me! /!-->
+<h2>Will's Stage 0 HTML and Web Notes</h2>
+<h3>The Web</h3>
+<p>The Web allows users to access information and documents stored on distributed servers, by using a browser on a computer which sends requests through the Internet using the protocol known as HTTP.</p> 
+<br>
+<h3>HTML</h3>
+<p>HTML stands for <em>Hypertext Markup Language</em>.
+It is the basis for almost all webpages, although web pages can link to or contain any other kind of document format. <br>
+<br>
+HTML is composed of four types of thing:<br> 
+<br>
+1. <em>Text content</em> (what you see on the screen) <br>
+2. <em>Markup</em> (how that content looks)<br>
+3. <em>References</em> to other documents (images, videos...)<br>
+4. <em>Links</em> to other pages. </p>
+<p>The browser through which the HTML document is being views will interpret the markup and present the content accordingly. It is essential the <em>syntax</em> or grammer of the code is 100% correct as computers can only interpret their instructions literally and cannot reason through an incorrectly formed instruction.</p>
+<br>
+<h3>HTML Documents</h3>
+<p>There are other items in addition to HTML that form the <em>structure</em> of an HTML document. <br>
+1. <em>Document Type</em><br>
+2. <em>Head</em>. This includes JavaScript and CSS style information, with opening and closing tags to define it.<br>
+3. <em>Body</em>. The contents of the document, again, with opening and closing tags to define it.</p>
+<br>
+<h3>HTML Markup</h3>
+<p>An HTML <em>element</em> is formed using <em>tags</em> and <em>content</em>:<br>
+An opening tag <br>
+The content <br>
+A closing tab (in some cases) <br>
+<br>
+<em>In line</em> tags signify a mark up of the content without defining an area within the document. Documents which create a definition are known as <em>block</em> tags.</p> 
+<br>
+<h3>HTML Attributes</h3>
+<p>As well as graphic tags (<b>bold</b>, <em>italics</em>, or <strong>strong</strong> for example), other
+attributes can be added, such as <a href="www.bbc.co.uk">links to other websites</a> or to things like images such as <br> <br> <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-F5fZt8J-GRQ%2FUYBydMax13I%2FAAAAAAAADeY%2F19WlCfjnO_g%2Fs1600%2Fearth-from-the-moon.jpg&f=1" alt="Earth">
+</p>
